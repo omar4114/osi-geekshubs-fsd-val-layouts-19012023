@@ -1,0 +1,55 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+.def {
+    height: 10vh;
+}
+
+.container {
+    background-color: red;
+    height: 100vh;
+}
+
+#navbar {
+    background-color: greenyellow;
+}
+
+#main {
+    background-color: violet;
+    height: 80vh;
+    display: flex;
+}
+
+#footer {
+    background-color: orange;
+    display: flex;
+}
+
+.footer-def {
+    width: 25vw;
+}
+
+#main-l {
+    background-color: blue;
+    width: 20vw;
+}
+
+#main-r {
+    background-color: green;
+    width: 80vw;
+}
+
+#footer-1 {
+    background-color: red;
+}
+#footer-2 {
+    background-color: rgb(0, 255, 34);
+}
+#footer-3 {
+    background-color: rgb(255, 230, 0);
+}
+#footer-4 {
+    background-color: rgb(255, 0, 234);
+}
